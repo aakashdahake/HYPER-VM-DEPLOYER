@@ -1,6 +1,6 @@
 # HYPER-VM-DEPLOYER
 
-This tool is developed to create a Hyper V VM using syspreped Windows virtual machine VHDon Hyper-V hypervisor.
+This tool is developed to create a Hyper V VM using syspreped Windows virtual machine VHD on Hyper-V hypervisor.
 It needs the host to be an Hyper V server.
 
 How to use-
